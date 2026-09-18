@@ -3,5 +3,11 @@
         "package": "HeatStressR",
         "url": "https://github.com/zyf0717/HeatStressR",
         "branch": "*release"
+    },
+    {
+        "package": "lwbgt",
+        "url": "https://github.com/zyf0717/lwbgt",
+        "subdir": "r",
+        "branch": "*release"
     }
 ]
